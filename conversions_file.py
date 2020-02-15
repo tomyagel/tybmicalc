@@ -1,8 +1,3 @@
-# Name: Tom Yagel
-# Email: tytommy19@gmail.com
-# Mobile: 0851940039
-
-
 def convert_st_and_lb_to_kg(st_weight, lb_weight):
     return round((st_weight + lb_weight / 14) * 6.35, 1)
 
