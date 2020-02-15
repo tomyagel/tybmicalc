@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# Name: Tom Yagel
-# Email: tytommy19@gmail.com
-# Mobile: 0851940039
-
 import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox as msb
