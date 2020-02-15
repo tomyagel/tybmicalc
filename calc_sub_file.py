@@ -1,8 +1,3 @@
-# Name: Tom Yagel
-# Email: tytommy19@gmail.com
-# Mobile: 0851940039
-
-
 import tkinter.messagebox as msb
 
 
