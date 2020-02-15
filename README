@@ -1,0 +1,4 @@
+# tybmicalc
+A BMI Calculator
+This calulator allows users to calculate their bmi based on data entered in either metric or imperial measurements systems
+The calculator provides the users with a verbal result that accompanies the numeric one, based on standard bmi scales.
